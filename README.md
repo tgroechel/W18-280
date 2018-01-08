@@ -9,7 +9,7 @@ This is where I put everything from lab up online in case you missed anything. Y
 Install `git` onto your system, you can Google how to do this
 ```
 cd ~/path/to/the/place/you/want/it #eg. cd ~/Desktop
-git clone https://github.com/tgroechel/F17-280.git
+git clone https://gitlab.eecs.umich.edu/tgroeche/W18-280.git
 ```
 
 ### Windows
