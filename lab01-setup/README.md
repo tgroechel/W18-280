@@ -13,17 +13,13 @@
 	- Trains
 	- Fox
 	- ~~Mom~~
-- Helping outside of class/emailing me
+- Helping outside of class/emailing me (email eecs280staff@umich.edu)
 - Piazza
 - Why or why not to come to lab
 - "Shopping" lab sections
 
 ## Developing, CAEN, and You
-- CAEN account
-- Many ways of accomplishing [280 laptop setups](https://piazza.com/class/j6xqzm6faq53n7?cid=73)
-- [SFTP and ssh](https://piazza.com/class/j6xqzm6faq53n7?cid=72)
-- Use Linux, can use CAEN computers and boot into RedHat by restarting computer
-- Learn git
+- Do Prof. DeOrio's setup: [Here](https://eecs280staff.github.io/p1-stats/setup.html)
 
 ## Compiling in terminal (MacOSX/Linux)
 1. Open up terminal (ctrl+T shortcut in Linux)
@@ -50,7 +46,7 @@ Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 - Recommend Computing for Computer Scientists class (EECS 398 I believe) if you want to just be more comfortable around a computer/terminal/linux etc.
 
 ## Worksheet
-[Worksheet](https://docs.google.com/document/d/1lIbbNZeXwwawdPkFMIkRnuewuOoY9PJjhJNVufa9OLU/edit)
+No worksheet this week...
 
 ## Project 1
 - Setup is tricky, come to OH if you are struggling
