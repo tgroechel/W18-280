@@ -47,6 +47,9 @@ git push
 #### Pulling
 ```bash
 git pull
+# Or
+git fetch
+git merge
 ```
 
 ## Linking/Makefiles
