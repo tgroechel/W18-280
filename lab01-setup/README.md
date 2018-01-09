@@ -27,15 +27,20 @@
 - SSH Key Setup
 	- Don't have to log in over and over
 - Initialize
-```git init```
+```
+git init
+```
 
 - Pushing
 ```
-git add .
+git add . # Adds everyting in current directory
 git commit -m "Commit message goes here"
 git push
 ```
 ### Pulling
+```
+git pull
+```
 
 
 ## Linking/Makefiles
