@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
-
+int main() {
+    cout << "Hello 280" << endl;
     return 0;
 }

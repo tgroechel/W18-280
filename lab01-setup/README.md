@@ -60,7 +60,6 @@ git merge
 - Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 
 
-
 ## Tips for this class
 - By far most limiting factor in this class? Time
 - Common pitfalls
