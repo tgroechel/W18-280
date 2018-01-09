@@ -26,54 +26,45 @@
 - Overview
 - SSH Key Setup
 	- Don't have to log in over and over
-- Initialize and start from new
+
+#### Initialize and start from new
 ```bash
 git init
 git remote add origin https://INSERTURLHERE
 git push -u origin master
 ```
 
-- Clone from old
+#### Clone from old
 ```bash
 git clone https://INSERTURLHERE
 ```
 
-- Pushing
+#### Pushing
 ```bash
 git add README.md junk.cpp #Insert any files here
 git commit -m "Commit message goes here"
 git push
 ```
-### Pulling
+#### Pulling
 ```bash
 git pull
 ```
-
 
 ## Linking/Makefiles
 - What is it?
 - Advantage?
 - Simple Makefile and Linking example
 - Makefile tutorial [Here](https://www.youtube.com/watch?v=uBe_PvY7QAw)
-
-## Compiling in terminal (MacOSX/Linux)
-1. Open up terminal (ctrl+T shortcut in Linux)
-2. Run dis, changing file names and executable as needed
-~~~
-g++ -Wall -Werror -pedantic --std=c++11 main.cpp other_file.cpp -o executable_name_potato
-./executable_name_potato
-~~~
-NOTE: You can only have one main function while running
-
-Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
+- Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 
 
 
 ## Tips for this class
-- By far most limiting factor in this class?
+- By far most limiting factor in this class? Time
+- Common pitfalls
 - Partner or nawe?
 - Cheating?
-- OH?
+- OH, 2-8pm all weekdays
 - Recommend Computing for Computer Scientists class (EECS 398 I believe) if you want to just be more comfortable around a computer/terminal/linux etc.
 
 ## Worksheet
