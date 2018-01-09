@@ -21,6 +21,27 @@
 ## Developing, CAEN, and You
 - Do Prof. DeOrio's setup: [Here](https://eecs280staff.github.io/p1-stats/setup.html)
 
+## git
+### Overview
+### SSH Key Setup
+
+### Initialize
+
+### Pushing
+```
+git add .
+git commit -m "Commit message goes here"
+git push
+```
+### Pulling
+
+
+## Linking/Makefiles
+- What is it?
+- Advantage?
+- Simple Makefile and Linking example
+- Makefile tutorial [Here](https://www.youtube.com/watch?v=uBe_PvY7QAw)
+
 ## Compiling in terminal (MacOSX/Linux)
 1. Open up terminal (ctrl+T shortcut in Linux)
 2. Run dis, changing file names and executable as needed
@@ -32,11 +53,7 @@ NOTE: You can only have one main function while running
 
 Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 
-## Linking/Makefiles
-- What is it?
-- Advantage?
-- Simple Makefile and Linking example
-- Makefile tutorial [Here](https://www.youtube.com/watch?v=uBe_PvY7QAw)
+
 
 ## Tips for this class
 - By far most limiting factor in this class?
@@ -46,17 +63,13 @@ Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
 - Recommend Computing for Computer Scientists class (EECS 398 I believe) if you want to just be more comfortable around a computer/terminal/linux etc.
 
 ## Worksheet
-No worksheet this week...
+- No worksheet this week...
+- Will be worksheet next week
 
-## Project 1
+## Project 1 Tips
 - Setup is tricky, come to OH if you are struggling
 - Tests and why
 - LOOK AT THE REQUIRES CLAUSE FOR TESTING
 
-## Extra if ya'll want
-- Vectors
-- Pass by reference
-- git
-- gdb?
 
 ## Closing Time
