@@ -26,19 +26,26 @@
 - Overview
 - SSH Key Setup
 	- Don't have to log in over and over
-- Initialize
-```
+- Initialize and start from new
+```bash
 git init
+git remote add origin https://INSERTURLHERE
+git push -u origin master
+```
+
+- Clone from old
+```bash
+git clone https://INSERTURLHERE
 ```
 
 - Pushing
-```
-git add . # Adds everyting in current directory
+```bash
+git add README.md junk.cpp #Insert any files here
 git commit -m "Commit message goes here"
 git push
 ```
 ### Pulling
-```
+```bash
 git pull
 ```
 
