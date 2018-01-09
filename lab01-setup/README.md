@@ -20,14 +20,16 @@
 
 ## Developing, CAEN, and You
 - Do Prof. DeOrio's setup: [Here](https://eecs280staff.github.io/p1-stats/setup.html)
+- Come to OH or ask me after class for help
 
-## git
-### Overview
-### SSH Key Setup
+## `git`
+- Overview
+- SSH Key Setup
+	- Don't have to log in over and over
+- Initialize
+```git init```
 
-### Initialize
-
-### Pushing
+- Pushing
 ```
 git add .
 git commit -m "Commit message goes here"
