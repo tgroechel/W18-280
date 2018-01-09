@@ -24,9 +24,8 @@
 
 ## `git`
 - Overview
-- SSH Key Setup
-	- Don't have to log in over and over
-
+![Image](.other/pictures/git_everthing_is_local.png)
+- [SSH Key Setup] (https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) = don't need to log in over and over
 #### Initialize and start from new
 ```bash
 git init
