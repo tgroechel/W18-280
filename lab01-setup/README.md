@@ -61,7 +61,8 @@ git merge
 ## SSH
 - [Here is resource page](http://caenfaq.engin.umich.edu/linux-login/how-do-i-connect-to-the-linux-login-service-using-secure-shell-ssh)
 - login:
-```
+
+```bash
 ssh tgroeche@login.engin.umich.edu
 ```
 - Now you are in a CAEN terminal
