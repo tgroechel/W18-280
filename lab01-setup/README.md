@@ -19,6 +19,12 @@
 - "Shopping" lab sections
 
 ## Developing, CAEN, and You
+- General Workflow
+	1. Develop/Debug on your machine
+	2. Use git this whole time
+	3. When ready to submit/pull over to CAEN and compile
+	4. Fix any CAEN issues
+	5. Submit
 - Do Prof. DeOrio's setup: [Here](https://eecs280staff.github.io/p1-stats/setup.html)
 - Come to OH or ask me after class for help
 
@@ -52,6 +58,15 @@ git fetch
 git merge
 ```
 
+## SSH
+- [Here is resource page](http://caenfaq.engin.umich.edu/linux-login/how-do-i-connect-to-the-linux-login-service-using-secure-shell-ssh)
+- login:
+```
+ssh tgroeche@login.engin.umich.edu
+```
+- Now you are in a CAEN terminal
+
+
 ## Linking/Makefiles
 - What is it?
 - Advantage?
@@ -61,8 +76,12 @@ git merge
 
 
 ## Tips for this class
-- By far most limiting factor in this class? Time
+- By far most limiting factor in this class?
 - Common pitfalls
+	- Start early
+	- Come to OH early
+	- Submit early and often
+	- Keep style up as you go
 - Partner or nawe?
 - Cheating?
 - OH, 2-8pm all weekdays
@@ -79,3 +98,4 @@ git merge
 
 
 ## Closing Time
+## NO LAB NEXT WEEK (MLK DAY MONDAY)
