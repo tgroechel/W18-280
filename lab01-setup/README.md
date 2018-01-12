@@ -105,6 +105,7 @@ ssh tgroeche@login.engin.umich.edu
 
 ## Project 1 Tips
 - Use epsilon
+
 ```cpp
 double epsilon = 0.0001;
 assert(abs(result - correct_result) < epsilon);
