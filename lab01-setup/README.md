@@ -18,6 +18,19 @@
 - Why or why not to come to lab
 - "Shopping" lab sections
 
+## Tips for this class
+- By far most limiting factor in this class?
+- Common pitfalls
+	- Start early
+	- Come to OH early
+	- Submit early and often
+	- Keep style up as you go
+- Partner or nawe?
+- Cheating?
+- OH, 2-8pm all weekdays
+- Recommend Computing for Computer Scientists class (EECS 398 I believe) if you want to just be more comfortable around a computer/terminal/linux etc.
+
+
 ## Developing, CAEN, and You
 - General Workflow
 	1. Develop/Debug on your machine
@@ -74,19 +87,6 @@ ssh tgroeche@login.engin.umich.edu
 - Simple Makefile and Linking example
 - Makefile tutorial [Here](https://www.youtube.com/watch?v=uBe_PvY7QAw)
 - Terminal tips can be found [Here](https://www.youtube.com/watch?v=or0UaQc7uAY)
-
-
-## Tips for this class
-- By far most limiting factor in this class?
-- Common pitfalls
-	- Start early
-	- Come to OH early
-	- Submit early and often
-	- Keep style up as you go
-- Partner or nawe?
-- Cheating?
-- OH, 2-8pm all weekdays
-- Recommend Computing for Computer Scientists class (EECS 398 I believe) if you want to just be more comfortable around a computer/terminal/linux etc.
 
 ## Worksheet
 - No worksheet this week...
