@@ -45,6 +45,16 @@
 #### Overview
 ![Image](.other/pictures/git_everthing_is_local.png)
 #### [SSH Key Setup] (https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) = don't need to log in over and over
+- For Windows, use ssh-keygen.exe instead of ssh-keygen
+```bash
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+# Press enter a view times (don't put a password)
+cat ~/.ssh/id_rsa.pub
+# Copy the output of this including the email
+```
+- Go to Gitlab -> Settings -> ssh keys 
+- Paste in key
+
 #### Initialize and start from new
 ```bash
 git init
@@ -93,6 +103,12 @@ ssh tgroeche@login.engin.umich.edu
 - Will be worksheet next week
 
 ## Project 1 Tips
+- Use epsilon
+```cpp
+double epsilon = 0.0001;
+assert(abs(result - correct_result) < epsilon);
+```
+- unsigned vs signed
 - Setup is tricky, come to OH if you are struggling
 - Tests and why
 - LOOK AT THE REQUIRES CLAUSE FOR TESTING
