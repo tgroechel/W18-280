@@ -11,8 +11,16 @@
 ## "Traversing by Pointer"
 - What even is an array?
 - How to loop?
-- Basic flip example
-- Make numbers reflect themselves example...
+
+~~~cpp
+// Reverse give arr
+// ie. {1,2,3} -> {3,2,1}
+void reverse(int arr[], int size);
+
+// Make numbers reflect their value in the array
+// ie. {1,2,3} -> {1,2,2,3,3,3}
+void numbers_reflect(int arr[], int out_arr[], int size);
+~~~
 
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1L-UvGJGfIpWdMCe5qhSB46zo8iIlrWI67x9RAcjVARw/edit)
