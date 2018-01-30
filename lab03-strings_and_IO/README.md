@@ -27,7 +27,7 @@ all:
 ~~~
 Useful symbols:
 - `$^` == dependencies
-- `$@' == use target name here
+- `$@` == use target name here
 
 
 ## Worksheet
