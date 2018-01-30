@@ -1,0 +1,5 @@
+IndentWidth: 4
+BreakBeforeBraces: Attach
+SpaceBeforeAssignmentOperators: true
+TabWidth: 4
+AlignTrailingComments: true
