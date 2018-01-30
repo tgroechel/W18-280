@@ -18,12 +18,16 @@ Basics:
 target: dependencies
     command
 ~~~
-Variables:
-~~~
+Variables and comments:
+~~~make
+# This is a comment
 FILES="file1.cpp file2.cpp"
 all:
     g++ $(FILES)
 ~~~
+Useful symbols:
+- `$^` == dependencies
+- `$@' == use target name here
 
 
 ## Worksheet
