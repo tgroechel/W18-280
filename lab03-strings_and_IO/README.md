@@ -28,6 +28,7 @@ all:
 Useful symbols:
 - `$^` == dependencies
 - `$@` == use target name here
+
 ~~~make
 CXX = g++
 FLAGS = -pedantic -Wall -Werror --std=c++11 -g
