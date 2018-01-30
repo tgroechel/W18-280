@@ -21,14 +21,29 @@ target: dependencies
 Variables and comments:
 ~~~make
 # This is a comment
-FILES="file1.cpp file2.cpp"
+FILES = file1.cpp file2.cpp
 all:
     g++ $(FILES)
 ~~~
 Useful symbols:
 - `$^` == dependencies
 - `$@` == use target name here
+~~~make
+CXX = g++
+FLAGS = -pedantic -Wall -Werror --std=c++11 -g
 
+allllllll: cstring stream
+	./stream 1 test0.txt
+
+cstring: cstring.cpp
+	${CXX} ${FLAGS} $^ -o $@
+
+stream: streams.cpp
+	${CXX} ${FLAGS} $^ -o $@
+
+clean:
+	rm -vf cstring stream
+~~~
 
 ## Worksheet
 [Worksheet](https://docs.google.com/document/d/1Un3TljjRZQrG_389X3XDqxY3zRFUPcp1ZDgJuCRTCb0/edit#heading=h.nr154e7mxb4h)
