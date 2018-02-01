@@ -45,7 +45,7 @@ Variables and comments:
 # This is a comment
 FILES = file1.cpp file2.cpp
 all:
-    g++ $(FILES)
+    g++ $(FILES) -o a
 ~~~
 Useful symbols:
 - `$^` == dependencies
@@ -72,7 +72,7 @@ clean:
 [Worksheet](https://docs.google.com/document/d/1d_yzq3100-8WxdB_fVr0aBW8mIoIWfr9v0qRxfIACWY/edit)
 
 ## Lab Practice Questions
-[Questions](https://docs.google.com/document/d/1ND69_kdcNXo-7HnASZqh7YzFt2YBxeXQX8JmfBR5b40/edit#heading=h.nr154e7mxb4h)
+[Questions]()
 
 
 ## Closing Time
