@@ -9,8 +9,30 @@
 - cout
 ![Image](.other/pictures/cat.jpg)
 
-## IO, argv, and arrrgc
+## argv, and arrrgc
+```cpp
+int main(int arrrgc, char ** argv){
+	cout << arrrgc << endl;
+	for(int i = 0; i < arrrgc; ++i){
+		cout << argv[i] << endl;
+	}
+}
+```
+When run with input ./program.exe 1 potato 9:
+```
+4
+./program.exe 1 potato 9
+```
 
+## IO
+- ostream
+	- cout
+	- ofstream
+	- stringstream
+- istream
+	- cin
+	- ifstream
+	- stringstream
 
 ## Makefile
 Basics:
@@ -47,19 +69,10 @@ clean:
 ~~~
 
 ## Worksheet
-[Worksheet](https://docs.google.com/document/d/1Un3TljjRZQrG_389X3XDqxY3zRFUPcp1ZDgJuCRTCb0/edit#heading=h.nr154e7mxb4h)
+[Worksheet](https://docs.google.com/document/d/1d_yzq3100-8WxdB_fVr0aBW8mIoIWfr9v0qRxfIACWY/edit)
 
 ## Lab Practice Questions
 [Questions](https://docs.google.com/document/d/1ND69_kdcNXo-7HnASZqh7YzFt2YBxeXQX8JmfBR5b40/edit#heading=h.nr154e7mxb4h)
 
-## Extra
-- [Lab Survey](https://docs.google.com/forms/d/1Wku4LmK3ACVGLzZ0BGNL_q5RQmzxA1D1wGhGH0XKIKo/edit)
-
-## Project 2 tips
-- [Slides](https://docs.google.com/presentation/d/1Joy-2qyjFXUfAizmyzRVuhEjNFdTkWVM5LXDEywLYV8/edit#slide=id.g275ba625aa_0_47)
-- Double check what height vs width are
-- Initialize all the stuff
-- 2-d array stored as 1-d array
-- Due Oct. 6th
 
 ## Closing Time
