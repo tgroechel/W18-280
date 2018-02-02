@@ -72,7 +72,7 @@ clean:
 [Worksheet](https://docs.google.com/document/d/1d_yzq3100-8WxdB_fVr0aBW8mIoIWfr9v0qRxfIACWY/edit)
 
 ## Lab Practice Questions
-[Questions]()
+[Questions](https://docs.google.com/document/d/1hD3dplOCw1m9RTeDTFye7iB8wJEdV1wYeIZ3eEFa4h0/edit)
 
 
 ## Closing Time
