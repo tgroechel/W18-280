@@ -1,6 +1,6 @@
 # comment
 
-FLAGS= -Wall -pedantic -Werror --std=c++11 -g -Wfatal
+FLAGS= -Wall -pedantic -Werror --std=c++11 -g -Wfatal-errors
 
 allll: streams cstring
 	./streams
