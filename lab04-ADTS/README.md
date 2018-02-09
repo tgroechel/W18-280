@@ -27,6 +27,7 @@ cout << p1.get_age();
 - why pass reference, const?
 - initializer list
 - scope resolution operator
+- funciton declaration vs definition
 
 
 # Worksheet
