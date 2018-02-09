@@ -26,9 +26,30 @@ cout << p1.get_age();
 [Worksheet](https://drive.google.com/drive/u/1/folders/1lbEhJgcMx8nDvYPiQQu_u7MCcjy9R_ls)
 
 ## Debug
-- backtrace
-- breakpoints
-- watch
+
+
+## Project 3
+### Overview of how to approach
+- [Slides](https://drive.google.com/drive/u/1/folders/1nZ6YBylNteusQhZVGZ6bW0mtEH8o_LKF)
+- Learn Euchre, Get a deck of cards, [video](https://www.youtube.com/watch?v=M0jGJ0NRcrc)
+- Card.cpp
+- Test
+- Pack.cpp
+- Test
+- Player->SimplePlayer.cpp,HumanPlayer.cpp
+- Test
+- main.cpp (make a Game class within this)
+- Test
+
+### Common pitfalls
+- Don't forget to reset the pack after every hand whether shuffle or not!
+- Right/Left Bower
+- Design the gae class ahead of time
+- The strategy of the SimplePlayer is trash
+- Don't split everything in a partnership
+
+## Practice Question
+
 
 ## gdb (leaving this here anyway)
 - Compile with -g
@@ -46,7 +67,5 @@ cout << p1.get_age();
 - print VARIABLE
 - watch VARIABLE
 - help for the helps
-
-## Practice Question
 
 ## Closing Time
