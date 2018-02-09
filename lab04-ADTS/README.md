@@ -1,8 +1,12 @@
 # Week 4 Agenda
 ![Image](.other/pictures/noclass.jpg)
 
+## Survey
+
+
 ## C-Style ADT
 - struct
+- holds data
 ```cpp
 Matrix m1;
 Matrix_init(&m1, 3,4);
@@ -11,6 +15,7 @@ cout << *Matrix_at(&m1, 2, 2);
 
 ## C++ ADT
 - class
+- holds data and funcitonality
 ```cpp
 Person p1("Tom", 22);
 cout << p1.get_age();
@@ -26,7 +31,7 @@ cout << p1.get_age();
 [Worksheet](https://drive.google.com/drive/u/1/folders/1lbEhJgcMx8nDvYPiQQu_u7MCcjy9R_ls)
 
 ## Debug
-
+- example
 
 ## Project 3
 ### Overview of how to approach
@@ -49,7 +54,7 @@ cout << p1.get_age();
 - Don't split everything in a partnership
 
 ## Practice Question
-
+[c-string Exam Style Question](https://docs.google.com/document/d/1hD3dplOCw1m9RTeDTFye7iB8wJEdV1wYeIZ3eEFa4h0/edit)
 
 ## gdb (leaving this here anyway)
 - Compile with -g
