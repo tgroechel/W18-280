@@ -7,6 +7,7 @@
 ## C-Style ADT
 - struct
 - holds data
+
 ```cpp
 Matrix m1;
 Matrix_init(&m1, 3,4);
@@ -16,6 +17,7 @@ cout << *Matrix_at(&m1, 2, 2);
 ## C++ ADT
 - class
 - holds data and funcitonality
+
 ```cpp
 Person p1("Tom", 22);
 cout << p1.get_age();
