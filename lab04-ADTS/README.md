@@ -48,7 +48,7 @@ cout << p1.get_age();
 ### Common pitfalls
 - Don't forget to reset the pack after every hand whether shuffle or not!
 - Right/Left Bower
-- Design the gae class ahead of time
+- Design the game class ahead of time
 - The strategy of the SimplePlayer is trash
 - Don't split everything in a partnership
 
