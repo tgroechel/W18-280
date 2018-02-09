@@ -39,14 +39,10 @@ cout << p1.get_age();
 ### Overview of how to approach
 - [Slides](https://drive.google.com/drive/u/1/folders/1nZ6YBylNteusQhZVGZ6bW0mtEH8o_LKF)
 - Learn Euchre, Get a deck of cards, [video](https://www.youtube.com/watch?v=M0jGJ0NRcrc)
-- Card.cpp
-- Test
-- Pack.cpp
-- Test
-- Player->SimplePlayer.cpp,HumanPlayer.cpp
-- Test
-- main.cpp (make a Game class within this)
-- Test
+- Card.cpp, test
+- Pack.cpp, test
+- Player->SimplePlayer.cpp,HumanPlayer.cpp, test
+- main.cpp (make a Game class within this), test
 
 ### Common pitfalls
 - Don't forget to reset the pack after every hand whether shuffle or not!
@@ -58,21 +54,5 @@ cout << p1.get_age();
 ## Practice Question
 [c-string Exam Style Question](https://docs.google.com/document/d/1hD3dplOCw1m9RTeDTFye7iB8wJEdV1wYeIZ3eEFa4h0/edit)
 
-## gdb (leaving this here anyway)
-- Compile with -g
-- gdb ./program
-- set args ARGUEMENTS
-- run (r)
-- start
-- break FILE:LINE# (b)
-- delete BREAKPOINT# (d)
-- continue (c)
-- next (n)
-- step (s)
-- backtrace (bt)
-- info locals
-- print VARIABLE
-- watch VARIABLE
-- help for the helps
 
 ## Closing Time
