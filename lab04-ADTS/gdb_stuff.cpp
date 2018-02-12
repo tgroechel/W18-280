@@ -5,14 +5,16 @@
 using namespace std;
 
 bool check_ptr(int *ptr) {
-    if (!*ptr)
+    if (ptr != nullptr)
         return false;
     return true;
 }
 
 int sum(vector<int> &nums) {
     int sum_up;
-    for (int i = 0; i < 5; ++i) {
+    for (int i = 0; i < 10000; ++i) {
+        if (i == 700)
+            cout << "ksjhf" << endl;
         sum_up += nums[i];
         nums[i] = i;
     }

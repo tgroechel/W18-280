@@ -14,6 +14,7 @@ gdbex: gdb_stuff.cpp
 spellcheck: spellcheck.cpp
 	${CXX} ${FLAGS} $^ -o $@
 
+
 val_gdbex: gdbex
 	valgrind --leak-check=full --log-file="output" ./gdbex
 	
