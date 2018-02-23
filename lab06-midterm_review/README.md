@@ -14,8 +14,8 @@ int operator+(const Thing& thing1, const Thing& thing2)
 ## Midterm Review
 
 ### Review Sheets
-[Toms]()
-[Melissas]()
+[Toms](https://docs.google.com/document/d/1puQYFdXSDPcUMYnlenZ2I-i-gPgpuU1g_3cBPKTE3RA/edit)
+
 
 ### Topics
 - Generic Vocabulary (ie reference, member funcs, unit testing, casting etc.)
