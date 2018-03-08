@@ -30,12 +30,7 @@ double Longboard::operator+(const Longboard &l_in1)
 
 int main(int argc, char **argv)
 {
-    Longboard l1(8);
-    Longboard l2(10);
-    l1.get_deck_length();
-    double d1 = l1 + l2;
-    cout << d1 << endl;
-    cout << l1 + l2 << endl;
+    cout << *(argv + 1) << endl;
 
     return 0;
 }
