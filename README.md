@@ -1,4 +1,4 @@
-# EECS 280 F17 Lab -Tom Trains
+# EECS 280 F17 Lab -Tom Trainss
 ## What is this?
 This is where I put everything from lab up online in case you missed anything. You an clone the repository or just look through it at your own will. Also that is the 280 crab curtesy of Jon Juett :)
 
