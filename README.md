@@ -6,6 +6,8 @@ This is where I put everything from lab up online in case you missed anything. Y
 ![Image](.other/pictures/crabster.jpg) 
 
 ## How to download
+
+kdsfhhjdsfhjk
 ### Linux/Mac Command Line
 Install `git` onto your system, you can Google how to do this
 ```
