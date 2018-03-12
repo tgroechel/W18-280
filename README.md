@@ -6,6 +6,9 @@ This is where I put everything from lab up online in case you missed anything. Y
 ![Image](.other/pictures/crabster.jpg) 
 
 ## How to download
+sdfkj
+
+sdfkjk
 ### Linux/Mac Command Line
 Install `git` onto your system, you can Google how to do this
 ```
@@ -14,7 +17,7 @@ git clone https://gitlab.eecs.umich.edu/tgroeche/W18-280.git
 ```
 
 ### Windows
-
+Windows is alrights
 [One tutorial I found](http://guides.beanstalkapp.com/version-control/git-on-windows.html)
 
 
