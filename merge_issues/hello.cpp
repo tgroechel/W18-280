@@ -3,20 +3,22 @@
 using namespace std;
 
 int add(int a, int b){
-	cout << a << endl;
-	cout << b << endl;
+	cout << "a:" << a << endl;
+	cout << "b:" << b << endl;
 	return a + b;
 }
 
 int sub(int a, int b){
 	cout << a << endl;
 	cout << b << endl;
-	return a - b;
+	cout << "What were you doing Tom!?!"
+	return b - a;
 }
 
 
 int main(){
 	cout << add(2,2) << endl;
 	cout << sub(2,2) << endl;
-	cout << "This is done  " << endl;
+	
+	cout << "This is done" << endl;
 }
