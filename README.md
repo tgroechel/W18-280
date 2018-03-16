@@ -15,7 +15,7 @@ git clone https://gitlab.eecs.umich.edu/tgroeche/W18-280.git
 ```
 
 ### Windows
-
+Windows is great!
 [One tutorial I found](http://guides.beanstalkapp.com/version-control/git-on-windows.html)
 
 
