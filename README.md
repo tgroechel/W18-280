@@ -1,11 +1,11 @@
 # EECS 280 F17 Lab -Tom Trains
 
 ## What is this?
-This is where I put everything from lab up online in case you missed anything. You an clone the repository or just look through it at your own will. Also that is the 280 crab curtesy of Jon Juett :)
+This is where I put everything from lab up online in case you missed anything. You an clone the repository or just look through it at your own will. Also that is the 280 crab curtesy of Jon Juett :) This will be an issue because I am a mean partner
 
 ![Image](.other/pictures/crabster.jpg) 
 
-## How to download
+## How to download the thing
 sdfkjk
 
 ### Linux/Mac Command Line
@@ -16,11 +16,12 @@ git clone https://gitlab.eecs.umich.edu/tgroeche/W18-280.git
 ```
 
 ### Windows
-Windows is alrights
+Windows is great!
 [One tutorial I found](http://guides.beanstalkapp.com/version-control/git-on-windows.html)
 
 
 ## How to update
+lololol
 ~~~
 cd ~/wherever/you/put/it/W18-280
 git pull
