@@ -1,7 +1,5 @@
 CXX = g++
-FLAGS = -pedantic -Wall --std=c++11 -g 
-
-# -fsanitize=address
+FLAGS = -pedantic -Wall --std=c++11 -g -fsanitize=address
 
 all: bigthree
 	./bigthree
