@@ -16,7 +16,7 @@
 [Worksheet](https://drive.google.com/drive/u/1/folders/1aB6jdQv9SmFV5z5pGDA7PjKsORIBSKKQ)
 
 ## Exam Style Question
-[Exam Style Dynamic](https://docs.google.com/document/d/1BBw-4zw2Pkjh_UhWIFflZMZBn28oGun7Q67SL75IUAo/edit)
+[Exam Style Dynamic](https://docs.google.com/document/d/1SyS3xT6X_uIYGdfkrgAQ8MnocBCJmulkvMmd3MM9J34/edit)
 
 ## Work on lab
 
