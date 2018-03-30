@@ -1,0 +1,5 @@
+(put word wrap on this) These are all of the dot files, hidden unless you run "ls -a" in the terminal (.bashrc etc).
+
+To install, windows, mac, linux: go to this directory and cp all of the hidden dot files to your home directy.
+
+ie: "cp .* ~/"
