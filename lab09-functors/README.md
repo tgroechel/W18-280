@@ -3,6 +3,7 @@
 
 ## Function Pointers
 - Just be comfortable using one
+
 ```cpp
 double add(int * a, int b) {
     return *a + b;
@@ -23,6 +24,7 @@ int main() {
     cout << varname(&a, b) << endl; // -1
 }
 ```
+
 ## Functors
 - Class with overloaded (), that is it.
 - Good for more abstraction = more generalization
@@ -38,9 +40,11 @@ class A{
 	};
 };
 ```
+
 - Who can access who?
 - Why was this important in project 4?
 - Iterator variable for list:
+
 ```cpp
 template <typename T>
 bool List<T>::func_empty_w_it(const List<T>& list_in) const{
