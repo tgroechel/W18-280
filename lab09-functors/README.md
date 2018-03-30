@@ -50,16 +50,16 @@ bool List<T>::func_empty_w_it(const List<T>& list_in) const{
 ```
 
 ## Worksheet
-[Worksheet](https://docs.google.com/document/d/1R-H_XOJnn3Wnqd4SjiMIgyQFJgBVh1LQF7hBqVjDvbY/edit)
+[Worksheet](https://drive.google.com/drive/u/1/folders/1vKztTqW_mbVeLUeZII0Az5vH5e2egekB)
 
 ## Exam Style Question
-[Exam Style Functor](https://docs.google.com/document/d/1n_sjFV9ToZwhcLdwjcmFBsD7F62wIYJ2AL2p7_5eofo/edit)
+[Exam Style Functor](https://docs.google.com/document/d/1coUy-MmdsOYi_hk1Je8Yl9Y2N7kVs5Jbk4NCwGhbwOo/edit)
 
 ## Work on lab
 
 ## Project 5 Overview
 - slides, what are those?
-- [Slides](https://docs.google.com/presentation/d/1owCucd3S0W1IKw5GWbxQNYpw95aUBSQOHa8SaMYmnhE/edit#slide=id.p)
+- [Slides](https://drive.google.com/drive/u/1/folders/1nZ6YBylNteusQhZVGZ6bW0mtEH8o_LKF)
 
 
 ## Closing Time
