@@ -1,5 +1,5 @@
 # Week 10 Agenda
-![Image](.other/pictures/recurssion.gif)
+![Image](../.other/pictures/recurssion.gif)
 
 ## Recursion
 - Why would you do this?
