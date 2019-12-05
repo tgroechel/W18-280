@@ -1,5 +1,5 @@
 # Week 11 Agenda
-![Image](.other/pictures/power_point.gif)
+![Image](../.other/pictures/power_point.gif)
 
 
 ## Lab Eval
