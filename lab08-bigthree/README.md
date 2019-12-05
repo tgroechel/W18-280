@@ -1,5 +1,5 @@
 # Week 8 Agenda
-![Image](.other/pictures/catbuffer.jpg)
+![Image](../.other/pictures/catbuffer.jpg)
 
 ## Big Three
 - Why?
