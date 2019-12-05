@@ -1,5 +1,5 @@
 # Week 2 Agenda
-![Image](.other/pictures/pointers.png)
+![Image](../.other/pictures/pointers.png)
 
 ## Pointers
 - What even is memory?
