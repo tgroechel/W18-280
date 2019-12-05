@@ -1,5 +1,5 @@
 # Week 3 Agenda
-![Image](.other/pictures/WhyUseCString.jpg)
+![Image](../.other/pictures/WhyUseCString.jpg)
 
 ## C-Strings vs C++ string
 - char izard[1] = '\\0'
@@ -7,7 +7,7 @@
 - string cheese = "hat"
 - cheese[0] = 'c'
 - cout
-![Image](.other/pictures/cat.jpg)
+![Image](../.other/pictures/cat.jpg)
 
 ## argv, and arrrgc
 ```cpp
