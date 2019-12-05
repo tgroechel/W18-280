@@ -1,5 +1,5 @@
 # Week 4 Agenda
-![Image](.other/pictures/noclass.jpg)
+![Image](../.other/pictures/noclass.jpg)
 
 ## Survey
 
