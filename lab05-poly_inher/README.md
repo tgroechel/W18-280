@@ -1,5 +1,5 @@
 # Week 5 Agenda
-![Image](.other/pictures/4-Pillars-of-OOP.png)
+![Image](../.other/pictures/4-Pillars-of-OOP.png)
 *This is from last semester as I was not there*
 
 ## Inheritance
