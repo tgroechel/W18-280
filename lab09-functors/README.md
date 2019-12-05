@@ -1,5 +1,5 @@
 # Week 9 Agenda
-![Image](.other/pictures/opera.gif)
+![Image](../.other/pictures/opera.gif)
 
 ## Function Pointers
 - Just be comfortable using one
