@@ -1,5 +1,5 @@
 # Week 7 Agenda (FROM F17, Celine taught this week because she is awesome)
-![Image](.other/pictures/gandalf.jpg)
+![Image](../.other/pictures/gandalf.jpg)
 
 ## Dynamic Memory
 - Why?
