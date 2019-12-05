@@ -1,5 +1,5 @@
 # Week 1 Agenda
-![Image](../other/pictures/fetch0.jpg) 
+![Image](../.other/pictures/fetch0.jpg) 
 ## Who am I?
 - Your IA for 280, Fourth semester
 - Senior CSE
